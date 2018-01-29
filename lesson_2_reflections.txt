@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repo, it creates the hidden .got folder.
+You need to do it for git to start tracking the repo and make your first commit.
