@@ -1,1 +1,2 @@
-Question 1: ?
+When would you want to use a remote repository rather than keeping all your work local?
+Use a remote repo to colloborate with other users.  Push and pull from it.
