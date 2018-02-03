@@ -3,3 +3,6 @@ Use a remote repo to colloborate with other users.  Push and pull from it.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Manual let's you times things accordingly.  Auto pulls would interrupt your development and cause merges before you are ready.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork copies a repo on github to your account.  Clone copies a repo from github to your local computer, or on your local computer to another directory on your computer.  Branches just create a new copy of the files in your repo seperate from other branches.
